@@ -1,0 +1,19 @@
+### Énoncé
+
+Pour ce premier challenge, nous allons commencer en douceur.  
+Tu vois ce que c'est **Unix** ? Tu vois ce que c'est un **shell** ?  
+Bon eh bien t'as plus qu'à naviguer un peu et chercher.  
+Connecte toi au serveur avec tes identifiants/mdp et tu trouveras ton bonheur².
+
+²: *Tu apprendras que lors des CTF, le bonheur existe uniquement sous forme de flag.*
+
+
+### Tips
+
+Juste besoin de commandes shell vraiment basique. Si tu te prends la tête c'est que t'es parti en sucette.
+
+
+### Doc
+
+[La base de la survie](https://bit.ly/2JxbydP)
+
